@@ -1,6 +1,6 @@
 
 {
-    "access": "private",
+    "access": "public",
     "contact": "Team Dodona <dodona@ugent.be>",
     "labels": ["example", "voorbeeld"]
 }
