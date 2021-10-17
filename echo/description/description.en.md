@@ -1,4 +1,4 @@
-You receive one line of input and you simply have to repeat this input. You have to write a program which functions as an echo.
+You receive one line of input and you simply have to repeat this input TEST. You have to write a program which functions as an echo.
 
 ![echo cave](media/Echo_Caves.jpg){:height="50%" width="50%"}
 
