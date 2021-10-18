@@ -1,5 +1,5 @@
-["test"]
-["1","2","3"]
+['test']
+[1,2,3]
 ----------------------------------------
 python input without prompt: true
 block count: multi
