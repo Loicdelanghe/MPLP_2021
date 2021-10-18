@@ -18,9 +18,8 @@ FizzBuzz
 Fizz
 19
 Buzz
-STOP
 ----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: 1
-output block size: ends with STOP 
+output block size: ends with 
