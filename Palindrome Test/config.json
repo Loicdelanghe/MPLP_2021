@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Voorbeeld oefening",
-      "en": "Example exercise"
+      "nl": "Palindrome Test",
+      "en": "Palindrome Test"
     }
   },
   "evaluation": {

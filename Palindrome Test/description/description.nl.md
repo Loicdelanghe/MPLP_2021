@@ -1,29 +1,21 @@
-Maak een Palindroom - test
+Write a a Python program to check if a word is a palindrome (a word that reads the same backward or forward). If the word is a palindrome make the program return "True" in other cases the program should return "False". 
 
-### Invoer
 
-Eén regel tekst zonder verdere restricties.
+Note that Dodona will automatically input words into your program. In order to correctly process this you should start your code with:
 
-### Uitvoer
+<pre><code>
+Word = input()
+</code></pre>
 
-Omgekeerde tekst als je hebt ingelezen bij de invoer.
-
-### Voorbeeld
-
-**Invoer:**
-
-    Test
-
-**Uitvoer:**
-
-    tseT
-
-### Voorbeeld
+### Example
 
 **Invoer:**
 
-    Aaab
+    level
 
 **Uitvoer:**
 
-    baaA
+    True
+
+
+
