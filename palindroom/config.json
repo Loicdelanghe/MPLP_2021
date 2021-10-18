@@ -1,18 +1,20 @@
 {
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
   "description": {
     "names": {
-      "en": "Palindroom",
-      "nl": "Palindroom"
+      "nl": "Voorbeeld oefening",
+      "en": "Example exercise"
     }
   },
   "evaluation": {
-    "pythia_judge": "output"
+    "handler": "python",
+    "image": "dodona/dodona-python",
+    "time_limit": 10,
+    "memory_limit": 10000000,
+    "network_enabled": true
   },
-  "labels": [
-
-  ],
-  "internals": {
-    "token": "bcgQFH7KEUM297WQmJ7czd823peZjVkgvwmmjR96ZTAifhbCsh6BPBpBPc3SiJX7",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
-  }
+  "labels": ["voorbeeld", "eenvoudige oefening"],
+  "contact": "Dodona <dodona@ugent.be>"
 }
