@@ -1,4 +1,4 @@
-_en_: This is the most basic exercise; read the input and print it out again.
+_en_: This is the most basic exercise TEST; read the input and print it out again.
 
 _nl:_ Dit is een basisoefening; lees de input en print die terug uit.
 
