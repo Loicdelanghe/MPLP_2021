@@ -1,2 +1,2 @@
-list(["test", "test"])
-list([1,2,3,47,1])
+>>> listo = ["test", "test"]
+>>> listo = [1,2,3,1,2,3]
