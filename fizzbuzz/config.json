@@ -1,0 +1,18 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "FizzBuzz",
+      "en": "FizzBuzz"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "eenvoudige oefening"
+  ],
+  "contact": "Dodona <dodona@ugent.be>"
+}
