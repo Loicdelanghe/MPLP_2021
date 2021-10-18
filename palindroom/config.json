@@ -9,11 +9,7 @@
     }
   },
   "evaluation": {
-    "handler": "python",
-    "pythia_judge": "output",
-    "time_limit": 10,
-    "memory_limit": 10000000,
-    "network_enabled": true
+    "pythia_judge": "output"
   },
   "labels": [
     "voorbeeld",
