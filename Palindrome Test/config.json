@@ -1,0 +1,19 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Voorbeeld oefening",
+      "en": "Example exercise"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "voorbeeld",
+    "eenvoudige oefening"
+  ],
+  "contact": "Dodona <dodona@ugent.be>"
+}
