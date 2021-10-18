@@ -15,5 +15,9 @@
     "voorbeeld",
     "eenvoudige oefening"
   ],
-  "contact": "Dodona <dodona@ugent.be>"
+  "contact": "Dodona <dodona@ugent.be>",
+  "internals": {
+    "token": "gIw439Ux-WWySAnKWqsSPTcTi3-43QRVWhqePYnwb-nQd_z8Main3QwpXrMFaqeQ",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
