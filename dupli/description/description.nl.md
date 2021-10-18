@@ -4,6 +4,11 @@ In class we saw the set() command, a useful tool for when you are trying to remo
 
 A list that contains some duplicate entries
 
+<pre><code>
+let a = 5;
+let b = 42;
+</code></pre>
+
 ### Output
 
 The "cleaned" input list
