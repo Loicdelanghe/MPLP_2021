@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "N-grams",
-      "en": "N-grams"
+      "nl": "07 N-grams",
+      "en": "07 N-grams"
     }
   },
   "evaluation": {

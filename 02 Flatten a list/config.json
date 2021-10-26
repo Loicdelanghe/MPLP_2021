@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Flatten a list",
-      "en": "Flatten a list"
+      "nl": "02 Flatten a list",
+      "en": "02 Flatten a list"
     }
   },
   "evaluation": {
