@@ -12,6 +12,10 @@ input block size: 1
 output block size: 1
 <DEFINITION>
 def customEvaluate(expected_output, generated_output):
+
+    # extract output lines
+    expected_output = expected_output[0]
+    generated_output = generated_output[0]
     parsed = list(generated_output)
     symbol_list = ["&", "!", "?", ":", ";"]
     capital_check = False
