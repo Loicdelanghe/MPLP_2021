@@ -1,0 +1,40 @@
+1
+2
+3
+4
+5
+6
+7
+----------------------------------------
+<DEFINITION>
+def costumeval(generated_output,expected_output):
+    parsed = list(generated_output)
+    symbol_list = ["&", "!", "?", ":", ";"]
+    capital_check = False
+    symbol_check = False
+    cnt_numbers = 0
+
+    for i in parsed:
+        if i.isupper() == True:
+            capital_check = True
+        else:
+            pass
+
+    for i in parsed:
+        if i in symbol_list:
+            symbol_check = True
+        else:
+            pass
+
+    for item in parsed:
+        try:
+            converted_int = int(item)
+            cnt_numbers+=1
+        except:
+            ValueError
+
+    if cnt_numbers == expected_output and capital_check == True and symbol_check == True and len(generated_output) == 10:
+        return True
+    else:
+        return False
+</DEFINITION>
