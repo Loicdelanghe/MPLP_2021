@@ -6,6 +6,10 @@
 6
 7
 ----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
 <DEFINITION>
 def costumeval(generated_output,expected_output):
     parsed = list(generated_output)
@@ -38,3 +42,7 @@ def costumeval(generated_output,expected_output):
     else:
         return False
 </DEFINITION>
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
