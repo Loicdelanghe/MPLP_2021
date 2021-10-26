@@ -1,0 +1,8 @@
+[('We', 'were'), ('were', 'somewhere'), ('somewhere', 'around'), ('around', 'Barstow'), ('Barstow', 'on'), ('on', 'the'), ('the', 'edge'), ('edge', 'of'), ('of', 'the'), ('the', 'desert'), ('desert', 'when'), ('when', 'the'), ('the', 'drugs'), ('drugs', 'began'), ('began', 'to'), ('to', 'take'), ('take', 'hold')]
+[('It', 'was'), ('was', 'the'), ('the', 'day'), ('day', 'my'), ('my', 'grandmother'), ('grandmother', 'exploded')]
+[('Last', 'night'), ('night', 'I'), ('I', 'dreamt'), ('dreamt', 'I'), ('I', 'went'), ('went', 'to'), ('to', 'Manderley'), ('Manderley', 'again')]
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 1
