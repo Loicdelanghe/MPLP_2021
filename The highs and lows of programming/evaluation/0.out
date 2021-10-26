@@ -1,0 +1,20 @@
+Number of strings in the list: 3
+Number of dictionaries in the list: 1
+(2, 90000)
+
+Number of strings in the list: 0
+Number of dictionaries in the list: 0
+(1, 4)
+
+Number of strings in the list: 0
+Number of dictionaries in the list: 2
+(7, 85)
+
+Number of strings in the list: 6
+Number of dictionaries in the list: 0
+(1, 2)
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: ends with 
