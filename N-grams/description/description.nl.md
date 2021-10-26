@@ -4,14 +4,14 @@ N-grams are an important aspect in computational linguistics. The n-grams of a s
 
 A list of the tri-grams (where n = 3) would look like this:
 
-the quick red
-quick red fox
-red fox jumps
-fox jumps over
-jumps over the
-over the lazy
-the lazy brown
-lazy brown dog
+* the quick red
+* quick red fox
+* red fox jumps
+* fox jumps over
+* jumps over the
+* over the lazy
+* the lazy brown
+* lazy brown dog
 
 In principle, creating n-grams boils down to finding all combinations of up to n words in a sentence, while respecting the original order of the sentence.
 
