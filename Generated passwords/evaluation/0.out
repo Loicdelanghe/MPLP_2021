@@ -11,7 +11,7 @@ block count: multi
 input block size: 1
 output block size: 1
 <DEFINITION>
-def ccustomEvaluate(expected_output, generated_output):
+def customEvaluate(expected_output, generated_output):
     parsed = list(generated_output)
     symbol_list = ["&", "!", "?", ":", ";"]
     capital_check = False
