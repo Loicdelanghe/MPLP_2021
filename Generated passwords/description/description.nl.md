@@ -58,7 +58,7 @@ def costumeval(generated_output,expected_output):
             ValueError
 
     if cnt_numbers == expected_output and capital_check == True and symbol_check == True and len(generated_output) == 10:
-        return True
+        return "Ok"
     else:
         return False
 
