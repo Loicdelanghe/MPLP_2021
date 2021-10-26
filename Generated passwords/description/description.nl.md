@@ -22,6 +22,57 @@ Numbers_in_pwd = int(input())
 Make sure that your password contains as many numbers as the input integer specifies e.g if the input is 3, your password should contain at least 3 numbers. 
 
 
+Because the response to this exercise is randomly generated and it has a lot of components to check, we have use a special evaluation function. Before sending in your response copy and paste the code below at the end of your script. Then, change the variable names 'Password_variable' and 'integer' in the first lines of this code to the variable where your password is stored and the Numbers_in_pwd variable respectively. 
+
+<pre><code>
+
+Password_variable = #your generated password comes here
+integer_input = #the Numbers_in_pwd variable comes here
+
+
+
+def costumeval(generated_output,expected_output):
+    parsed = list(generated_output)
+    symbol_list = ["&", "!", "?", ":", ";"]
+    capital_check = False
+    symbol_check = False
+    cnt_numbers = 0
+
+    for i in parsed:
+        if i.isupper() == True:
+            capital_check = True
+        else:
+            pass
+
+    for i in parsed:
+        if i in symbol_list:
+            symbol_check = True
+        else:
+            pass
+
+    for item in parsed:
+        try:
+            converted_int = int(item)
+            cnt_numbers+=1
+        except:
+            ValueError
+
+    if cnt_numbers == expected_output and capital_check == True and symbol_check == True and len(generated_output) == 10:
+        return True
+    else:
+        return False
+
+
+print(costumeval(Password_variable,integer_input))
+
+</code></pre>
+
+
+
+
+
+
+
 ### Example
 
 **Invoer:**
