@@ -12,11 +12,11 @@ You can then write your python code for removing duplicates from the list called
 
 ### Example
 
-**Invoer:**
+**Input:**
 
     [7, "Strawberry", "Banana", "Apple", "banana", "Apple", 1, "Melon", 7]
 
-**Uitvoer:**
+**Output:**
 
     [7, "Strawberry", "Banana", "Apple", "banana", 1, "Melon"]
 

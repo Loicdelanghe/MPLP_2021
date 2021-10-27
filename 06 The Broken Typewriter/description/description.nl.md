@@ -9,11 +9,11 @@ Your script should print out the corrected text at the end.
 
 ### Example
 
-**Invoer:**
+**Input:**
 
     Python p$og$amming is a7ways g$eat fun!
 
-**Uitvoer:**
+**Output:**
 
     Python programming is always great fun! 
 

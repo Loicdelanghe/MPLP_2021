@@ -19,11 +19,11 @@ Having acquired this information, can you write a python script that generates t
 
 ### Example
 
-**Invoer:**
+**Input:**
 
     The fox jumped over the lazy dog
 
-**Uitvoer:**
+**Output:**
 
     [("the", "fox"),("fox", "jumped"),("jumped", "over"),("over", "the"),("the", "lazy"),("lazy", "dog")] 
 

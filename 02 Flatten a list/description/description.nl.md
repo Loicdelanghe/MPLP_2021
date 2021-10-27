@@ -10,11 +10,11 @@ You can then write your python code for flattening the list called Nested_list. 
 
 ### Example
 
-**Invoer:**
+**Input:**
 
     [[1,2,3], [4,5]]
 
-**Uitvoer:**
+**Output:**
 
     [1, 2, 3, 4, 5]
 

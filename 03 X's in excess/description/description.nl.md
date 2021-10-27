@@ -21,11 +21,11 @@ You can then write your python code for printing the joined X's.
 
 ### Example
 
-**Invoer:**
+**Input:**
 
     2
 
-**Uitvoer:**
+**Output:**
 
     *     *
      *   * 

@@ -11,11 +11,11 @@ L = eval(input())
 
 ### Example
 
-**Invoer:**
+**Input:**
 
     [52, 96, 2, "Apples", 1]
 
-**Uitvoer:**
+**Output:**
 
     Number of strings in the list: 1 
     Number of dictionaries in the list: 0
